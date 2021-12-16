@@ -1,0 +1,5 @@
+print ("Hello Python !")
+print ("Welcome")
+print ("I can do it")
+print (100 + 100)
+print ("Python " * 3)
